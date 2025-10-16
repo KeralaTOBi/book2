@@ -30,6 +30,10 @@ body{
 .output h2{
   color: rgb(17, 224, 17);
   padding-bottom: 10px;
+  overflow-wrap: break-word;
+}
+.output h5{
+overflow-wrap: break-word;
 }
 .output p{
   padding-top: 3px;
@@ -117,3 +121,4 @@ body{
   border: none;
   font-weight: bold;
 }
+
