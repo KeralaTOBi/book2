@@ -63,6 +63,10 @@ overflow-wrap: break-word;
   font-size: 40px;
   
 }
+.add:hover{
+  background-color: black;
+  color: rgb(17, 224, 17);
+}
 .overlay{
   background-color: black;
   position: absolute;
@@ -121,4 +125,5 @@ overflow-wrap: break-word;
   border: none;
   font-weight: bold;
 }
+
 
